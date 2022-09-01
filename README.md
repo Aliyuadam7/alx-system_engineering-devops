@@ -1,1 +1,1 @@
-task 0.where am i?
+Delete the directory my_first_directory that is in the /tmp directory
